@@ -1,0 +1,2 @@
+karel@seznam.cz|1234
+jiri@gmail.com|321
